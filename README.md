@@ -35,7 +35,7 @@ This project demonstrates microservice architecture with REST API communication 
 
 Clone the repository:
 ```bash
-git clone https://github.com/HarshRahulSharma123/Swiggy-Restaurant-Management-
+git clone https://github.com/HarshRahulSharma123/Restaurant-Swiggy-Services.git
 cd Restaurant-Swiggy-Services
 ```
 
